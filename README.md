@@ -17,3 +17,12 @@ This program demonstrates **Encapsulation** in Java using private variables, get
 - Accesses data using getter and setter methods.
 
 ## Output
+
+20
+Kusuma
+Sales
+21
+ID : 22
+Name : Raj
+Age : 25
+Dept : Marketing
